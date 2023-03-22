@@ -1,0 +1,3 @@
+<templateSet group="Twig">
+  <template name="debug_mode" value="{% if elements_debug_mode() %}&#10;    $END$&#10;{% endif %}" description="elements_debug_mode" toReformat="false" toShortenFQNames="true" />
+</templateSet>
