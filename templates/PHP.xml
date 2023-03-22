@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="debug_mode" value="if(\Pimcore::inDebugMode()) {&#10;  $END$ &#10;}" description="elements debug mode" toReformat="false" toShortenFQNames="true" />
+</templateSet>
